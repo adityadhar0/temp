@@ -1,1 +1,0 @@
-# adhar.github.io
