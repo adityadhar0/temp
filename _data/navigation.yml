@@ -1,0 +1,14 @@
+# main links
+main:
+   - title: "Home"
+     url: /
+   - title: "Research"
+     url: /research/
+   # - title: "Talks"
+   #   url: /talks/
+   - title: "Teaching"
+     url: /teaching/
+   #- title: "About"
+   #  url: /About/
+   - title: "CV"
+     url: /assets/docs/cv.pdf
