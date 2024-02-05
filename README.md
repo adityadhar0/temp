@@ -3,4 +3,4 @@
 
 ## I am a first-year Finance PhD student at the University of Chicago Booth School of Business. 
 
-I am interested in political economy, international finance, and macro-finance. Before coming to Chicago, I received an A.B. in Applied Mathematics from Harvard ('22). You can find my CV [here](/assets/docs/CV.pdf).
+I am interested in political economy, international finance, and macro-finance. Before coming to Chicago, I received an A.B. in Applied Mathematics from Harvard ('22) and worked at Bain & Company as a management consultant. You can find my CV [here](/assets/docs/CV.pdf).
