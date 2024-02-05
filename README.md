@@ -1,8 +1,4 @@
----
-title: ABOUT PAGE
-layout: template
-filename: README.md
---- 
+
 # Welcome!
 
 ## I am a first-year Finance PhD student at the University of Chicago Booth School of Business. 
