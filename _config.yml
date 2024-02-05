@@ -7,6 +7,8 @@ author: Aditya Dhar
 # --- List of links in the navigation bar --- #
 ###############################################
 
+
+theme: jekyll-theme-minimal
 navbar-links:
   About Me: "aboutme"
   Author's home: "adityadhar0.github.io"
